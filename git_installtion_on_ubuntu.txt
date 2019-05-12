@@ -1,0 +1,18 @@
+     git installation commands after creating account on https://github.com
+     sudo apt-get install git
+     git config --global user.name "yashjain87553"
+     git config --global user.email "yashjain87553@gmail.com"
+     clear
+     ls
+     mkdir gittest
+     cd gittest
+     echo "# gittet" >> README.md
+     ls
+     git init
+     git add README.md
+     yashjain87553/gittet
+     git commit -m "first commit"
+     git remote add origin https://github.com/yashjain87553/gittet.git
+     git push -u origin master
+
+     Tutorial for this installtion : https://youtu.be/SwK2dPFXhpU
